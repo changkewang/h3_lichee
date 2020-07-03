@@ -196,6 +196,6 @@ MODULE_ALIAS("platform:" DRVNAME);
 MODULE_ALIAS("spi:st7735s");
 MODULE_ALIAS("platform:st7735s");
 
-MODULE_DESCRIPTION("FB driver for the st7789s LCD display controller");
+MODULE_DESCRIPTION("FB driver for the st7735s LCD display controller");
 MODULE_AUTHOR("friendlyarm");
 MODULE_LICENSE("GPL");
